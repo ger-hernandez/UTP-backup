@@ -1,0 +1,2 @@
+# read about dijkstra algorithm from source material
+# study numpy and panda
