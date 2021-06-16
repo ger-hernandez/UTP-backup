@@ -22,3 +22,9 @@ for x, y in enumerate(l):
     
 z = tuple([x, y] for x, y in enumerate(l))
 print(z)
+
+#fibonacci
+a, b = 0, 1
+while b < 100:
+    print (b)
+    a, b = b, a + b
